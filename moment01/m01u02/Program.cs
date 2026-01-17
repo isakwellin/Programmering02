@@ -1,6 +1,6 @@
 ﻿// Isak Wellin, 23TEa, m01u02, 2026-01-14
 
-namespace m02u02
+namespace m01u02
 {
     internal class Program
     {
