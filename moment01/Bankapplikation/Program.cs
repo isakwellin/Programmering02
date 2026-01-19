@@ -1,5 +1,5 @@
 ﻿/*  
-    Isak Wellin, 23TEa, m01u04, 2026-01-17
+    Isak Wellin, 23TEa, Bankapplikation, 2026-01-17
 
     Det var inte så svårt, man känner igen mycket och så länge man har läst
     i moment 1 på kursolle och vet syntaxen är det precis som att bygga en bank
@@ -89,3 +89,4 @@ namespace Bankapplikation
         }
     }
 }
+
