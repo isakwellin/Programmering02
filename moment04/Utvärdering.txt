@@ -1,0 +1,25 @@
+1. Hur du har arbetat med SpaceShooter.
+----------------------------------------------------------------------------------------------------------
+Mestadels har jag läst och följt med i boken, inte direkt gått min egen väg och gjort saker annorlunda.
+Han förklarar saker ganska bra i boken vilket gör det förståeligt så jag valde att bara följa han.
+
+
+
+
+
+
+
+2. Om HighScore är inbyggt i SpaceShooter eller om det är två separata projekt.
+----------------------------------------------------------------------------------------------------------
+Det är två seperata projekt, möljigtvis om jag får kan jag koppla ihop dem senare eftersom det står att
+det kan visas senare i kursen.
+
+
+
+
+
+
+
+3. Om du har gjort några egna förändringar, förbättringar eller tillägg utöver grunduppgiften.
+----------------------------------------------------------------------------------------------------------
+Nej, jag har inte gjort några egna förändringar eller tillägg.

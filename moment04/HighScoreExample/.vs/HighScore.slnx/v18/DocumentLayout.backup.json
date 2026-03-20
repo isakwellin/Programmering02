@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|c:\\users\\xmone\\source\\repos\\isakwellin\\programmering02\\highscore\\highscore\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|solutionrelative:highscore\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|c:\\users\\xmone\\source\\repos\\isakwellin\\programmering02\\highscore\\highscore\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|solutionrelative:highscore\\highscore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|c:\\users\\xmone\\source\\repos\\isakwellin\\programmering02\\highscore\\highscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E64408E8-D59E-4AC7-470C-174383469B04}|HighScore\\HighScoreExample.csproj|solutionrelative:highscore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HighScore.cs",
+              "DocumentMoniker": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\HighScore.cs",
+              "RelativeDocumentMoniker": "HighScore\\HighScore.cs",
+              "ToolTip": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\HighScore.cs",
+              "RelativeToolTip": "HighScore\\HighScore.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAmwN4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:46:26.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\Program.cs",
+              "RelativeDocumentMoniker": "HighScore\\Program.cs",
+              "ToolTip": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\Program.cs",
+              "RelativeToolTip": "HighScore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:27:19.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\Game1.cs",
+              "RelativeDocumentMoniker": "HighScore\\Game1.cs",
+              "ToolTip": "C:\\Users\\xmone\\source\\repos\\isakwellin\\Programmering02\\HighScore\\HighScore\\Game1.cs",
+              "RelativeToolTip": "HighScore\\Game1.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T20:26:54.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

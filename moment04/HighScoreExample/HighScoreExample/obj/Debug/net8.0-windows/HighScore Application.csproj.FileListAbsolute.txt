@@ -1,0 +1,28 @@
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\mgcb.tool.restore
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.csproj.AssemblyReference.cache
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.AssemblyInfoInputs.cache
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.AssemblyInfo.cs
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.csproj.CoreCompileInputs.cache
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.sourcelink.json
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\HighScore Application.exe
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\HighScore Application.deps.json
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\HighScore Application.runtimeconfig.json
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\HighScore Application.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\HighScore Application.pdb
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScor.DA8E4F15.Up2Date
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\refint\HighScore Application.dll
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.pdb
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\HighScore Application.genruntimeconfig.cache
+C:\Users\xmone\source\repos\isakwellin\Programmering02\HighScore\HighScore\obj\Debug\net8.0-windows\ref\HighScore Application.dll
