@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/xmone/source/repos/isakwellin/Programmering02/SpaceShooter/SpaceShooter/Content/Fonts/Arial.spritefont</SourceFile>
+  <SourceTime>2026-03-15T03:07:39.6685117+01:00</SourceTime>
+  <DestFile>C:/Users/xmone/source/repos/isakwellin/Programmering02/SpaceShooter/SpaceShooter/Content/bin/Windows/Fonts/Arial.xnb</DestFile>
+  <DestTime>2026-03-15T03:08:17.8398562+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2025-06-02T12:31:02+02:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2025-06-02T12:31:02+02:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
